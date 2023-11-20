@@ -1,0 +1,17 @@
+.header__nav-theme-toggle-btn {
+    transform: rotate(0deg);
+}
+
+body {
+    color: var(--color-sugar-cane);
+}
+
+.card__view {
+    color: var(--color-black);
+    border: 2px solid var(--color-sugar-cane);
+    background: var(--color-sugar-cane);
+}
+
+.section-feedback__card-author-image {
+    border: none;
+}
